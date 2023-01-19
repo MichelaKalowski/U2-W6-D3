@@ -8,8 +8,13 @@ main{
     padding-bottom: 70px;
     background-color: black;
     color: white;
+    scale: (1);
+    
     &:hover{
         cursor: pointer;
+        transform: scale(1.2);
+        
        
     }
-}
+    
+    }
